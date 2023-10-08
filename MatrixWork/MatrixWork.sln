@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixWork", "MatrixWork\MatrixWork.csproj", "{AA77D932-37C2-477A-A108-D7919D408E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixWorkTest", "MatrixWorkTest\MatrixWorkTest.csproj", "{ABD52578-8A3A-4A1A-B679-56AC019E0897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA77D932-37C2-477A-A108-D7919D408E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA77D932-37C2-477A-A108-D7919D408E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA77D932-37C2-477A-A108-D7919D408E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA77D932-37C2-477A-A108-D7919D408E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD52578-8A3A-4A1A-B679-56AC019E0897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD52578-8A3A-4A1A-B679-56AC019E0897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD52578-8A3A-4A1A-B679-56AC019E0897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD52578-8A3A-4A1A-B679-56AC019E0897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
