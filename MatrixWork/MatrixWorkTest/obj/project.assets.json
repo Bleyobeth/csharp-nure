@@ -6117,7 +6117,7 @@
     "MatrixWork/1.0.0": {
       "type": "project",
       "path": "../MatrixWork/MatrixWork.csproj",
-      "msbuildProject": "../../../../../хуйре/шарпы/пз1/MatrixWork/MatrixWork/MatrixWork.csproj"
+      "msbuildProject": "../../../../../хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWork/MatrixWork.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWorkTest/MatrixWorkTest.csproj",
+      "projectUniqueName": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWorkTest/MatrixWorkTest.csproj",
       "projectName": "MatrixWorkTest",
-      "projectPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWorkTest/MatrixWorkTest.csproj",
+      "projectPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWorkTest/MatrixWorkTest.csproj",
       "packagesPath": "/Users/wyrmoli/.nuget/packages/",
-      "outputPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWorkTest/obj/",
+      "outputPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWorkTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wyrmoli/.nuget/NuGet/NuGet.Config"
@@ -6154,8 +6154,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWork/MatrixWork.csproj": {
-              "projectPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWork/MatrixWork.csproj"
+            "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWork/MatrixWork.csproj": {
+              "projectPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWork/MatrixWork.csproj"
             }
           }
         }

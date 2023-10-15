@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M6pj24xGMORg+cKmlZcuAU8Wsu+8d5PDvLYyQ6IGncu6i1s9otcigiZJX8aqa4ZBCHwDby4t+7grEk8qQCwqKA==",
+  "dgSpecHash": "VCoxJ946mWJ94m2sxD/8OLRCEVVww2AxbXNAgOm3lVH2cNeW1jspD35ng2LtVX5Lkem2s+S5i55QDaWprVzpzw==",
   "success": true,
-  "projectFilePath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWorkTest/MatrixWorkTest.csproj",
+  "projectFilePath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWorkTest/MatrixWorkTest.csproj",
   "expectedPackageFiles": [
     "/Users/wyrmoli/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/wyrmoli/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",

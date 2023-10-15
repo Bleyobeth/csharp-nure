@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWork/MatrixWork.csproj",
+      "projectUniqueName": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWork/MatrixWork.csproj",
       "projectName": "MatrixWork",
-      "projectPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWork/MatrixWork.csproj",
+      "projectPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWork/MatrixWork.csproj",
       "packagesPath": "/Users/wyrmoli/.nuget/packages/",
-      "outputPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWork/MatrixWork/obj/",
+      "outputPath": "/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз1/MatrixWorkMoreTest/MatrixWork/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wyrmoli/.nuget/NuGet/NuGet.Config"

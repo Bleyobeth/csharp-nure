@@ -11,9 +11,12 @@ namespace MatrixWork
             if (rows <= 0 || cols <= 0)
                 throw new ArgumentException("Matrix dimensions should be greater than 0.");
 
+            if (initialData.GetLength(0) != rows || initialData.GetLength(1) != cols)
+                throw new ArgumentException("Initial data dimensions do not match the provided dimensions.");
+
             _rows = rows;
             _cols = cols;
-            _elements = initialData ?? new double[rows, cols];
+            _elements = initialData;
         }
 
         public int Rows
@@ -46,6 +49,9 @@ namespace MatrixWork
 
         public Matrix Add(Matrix other)
         {
+            if (other == null)
+                throw new ArgumentNullException(nameof(other));
+
             if (_rows != other._rows || _cols != other._cols)
                 throw new ArgumentException("Matrix dimensions do not match for addition.");
 
@@ -63,6 +69,9 @@ namespace MatrixWork
 
         public Matrix Multiply(Matrix other)
         {
+            if (other == null)
+                throw new ArgumentNullException(nameof(other));
+
             if (_cols != other._rows)
                 throw new ArgumentException("Matrix dimensions do not match for multiplication.");
 
@@ -112,6 +121,8 @@ namespace MatrixWork
 
         public IMatrix Transpose()
         {
+            if (_rows == 0 && _cols == 0)
+                return this;
             var resultData = new double[_cols, _rows];
             for (int i = 0; i < _rows; i++)
             {
@@ -124,8 +135,11 @@ namespace MatrixWork
             return new Matrix(_cols, _rows, resultData);
         }
 
-        public bool Equals(IMatrix other)
+        public override bool Equals(object? other)
         {
+            if (other == null)
+                return false;
+
             if (other is Matrix matrix)
             {
                 if (_rows != matrix._rows || _cols != matrix._cols)
@@ -135,7 +149,7 @@ namespace MatrixWork
                 {
                     for (int j = 0; j < _cols; j++)
                     {
-                        if (_elements[i, j] != matrix._elements[i, j])
+                        if (!_elements[i, j].Equals(matrix._elements[i, j]) )
                             return false;
                     }
                 }
@@ -163,11 +177,6 @@ namespace MatrixWork
             }
 
             return sb.ToString();
-        }
-
-        public override bool Equals(object obj)
-        {
-            return Equals(obj as IMatrix);
         }
 
         public override int GetHashCode()

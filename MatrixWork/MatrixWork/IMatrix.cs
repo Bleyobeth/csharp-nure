@@ -14,7 +14,6 @@ namespace MatrixWork
         IMatrix Multiply(IMatrix other);
         IMatrix Multiply(double scalar);
         IMatrix Transpose();
-        bool Equals(IMatrix other);
-        string ToString();
+       
     }
 }
