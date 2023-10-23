@@ -1,0 +1,10 @@
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/bin/Debug/net7.0/StackOfNumbers.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/bin/Debug/net7.0/StackOfNumbers.pdb
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/StackOfNumbers.csproj.AssemblyReference.cache
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/StackOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/StackOfNumbers.AssemblyInfoInputs.cache
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/StackOfNumbers.AssemblyInfo.cs
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/StackOfNumbers.csproj.CoreCompileInputs.cache
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/StackOfNumbers.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/refint/StackOfNumbers.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackOfNumbers/obj/Debug/net7.0/StackOfNumbers.pdb

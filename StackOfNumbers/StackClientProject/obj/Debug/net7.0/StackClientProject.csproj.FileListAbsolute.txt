@@ -1,0 +1,16 @@
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/StackTest.deps.json
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/StackTest.runtimeconfig.json
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/StackClientProject
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/StackClientProject.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/bin/Debug/net7.0/StackClientProject.pdb
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/StackClientProject.csproj.AssemblyReference.cache
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/StackClientProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/StackClientProject.AssemblyInfoInputs.cache
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/StackClientProject.AssemblyInfo.cs
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/StackClientProject.csproj.CoreCompileInputs.cache
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/StackClientProject.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/refint/StackClientProject.dll
+/Users/wyrmoli/Downloads/прогич/хуйре/шарпы/пз2/StackOfNumbers/StackClientProject/obj/Debug/net7.0/StackClientProject.pdb
